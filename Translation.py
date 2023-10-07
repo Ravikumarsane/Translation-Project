@@ -1,3 +1,6 @@
+# This Python script uses the Hugging Face Transformers library to translate 
+# English text to Hinglish (a mix of Hindi and English). It leverages a pre-trained model for this purpose.
+
 import torch
 from transformers import MarianMTModel, MarianTokenizer
 
