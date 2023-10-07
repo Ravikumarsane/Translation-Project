@@ -18,4 +18,4 @@ To run the script, follow these steps:
     Input English Text: I had about a 30 minute demo just using this new headset.
     Hinglish Translation: मैं सिर्फ इस नए सिरसेट का उपयोग कर एक 30 मिनट डेमो था.
    
-5. Screenshot of the ouput is also attached.
+5. Screenshot of the output is also attached.
